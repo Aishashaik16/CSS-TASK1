@@ -1,0 +1,15 @@
+#task3{
+    border: 2px solid;
+    border-color: black;
+    text-align: center;
+}
+#image{
+    border: 3px solid;
+    border-color: black;
+}
+p1,p2,p3{
+    color:green;
+    font-style: italic;
+}
+
+
